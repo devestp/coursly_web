@@ -1,16 +1,30 @@
-# coursly_web
+# Coursly WEB UI Design
 
-A new Flutter project.
+An educational platform made for UI/UX designers
+
+## Implementation Details
+
+- this app is only for web and is not responsive for small screens
 
 ## Getting Started
+to run the project follow below steps:
 
-This project is a starting point for a Flutter application.
+- clone the project
+- get packages with 
+  
+  ```
+  dart pub get
+  ```
+  or
 
-A few resources to get you started if this is your first Flutter project:
+  ```
+  flutter pub get
+  ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- run the app in browser
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Copyright
+
+UI designer : Saleh
+
+ [IG](https://www.instagram.com/sawli1_/) | [Dribble](https://dribbble.com/sawli1) | [Linkedin](http://linkedin.com/in/saleh-hosseini-a3bb84198)
